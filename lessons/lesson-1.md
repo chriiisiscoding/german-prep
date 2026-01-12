@@ -55,7 +55,7 @@ https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
 
 ---
 
-## ✍️ 3) **Writing (10–12 min)**
+## ✍️ 3) Writing
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
