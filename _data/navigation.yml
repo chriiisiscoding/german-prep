@@ -1,4 +1,8 @@
 - title: Lessons
   children:
-    - title: "Lesson 1 – Word Order"
+    - title: "Day 1"
       url: /lessons/lesson-1
+    - title: "Day 2"
+      url: /lessons/lesson-2
+    - title: "Day 3"
+      url: /lessons/lesson-3

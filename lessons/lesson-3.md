@@ -1,6 +1,6 @@
 
 
-# Day 1
+# Day 3
 
 ## 👀 1) Reading Comprehension
 
@@ -11,20 +11,20 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Text
 
-**Ein Abend im Restaurant**  
-> Heute Abend gehe ich mit meinen Freunden in ein Restaurant.
-Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte.
-Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch.
-Wir setzen uns und bekommen die Speisekarten.
-Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht.
-Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
+**Ein Wochenende**  
+> Am Samstag schlafe ich gern lange.
+Danach frühstücke ich mit meiner Familie in der Küche.
+Am Nachmittag treffe ich mich mit meinen Freunden im Park oder im Einkaufszentrum.
+Wir reden, hören Musik oder spielen Basketball.
+Am Abend sehe ich oft einen Film oder lese ein Buch.
+Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
 
 ### Questions
 
-1. Wohin geht die Person heute Abend?
-2. Wie heißt das Restaurant?
-3. Was bestellt die Person?
-4. Was essen die Freunde?
+1. Was macht die Person am Samstagmorgen?
+2. Wo trifft sie ihre Freunde?
+3. Was machen sie zusammen?
+4. Was macht die Person am Sonntag?
 
 **Speak or write your answers in German.**
 
@@ -42,14 +42,15 @@ Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 
 ### Video
 
-Listen to (part of) the conversation in the video below. Listen from `1:26` (that's where the link takes you to) to `2.10`.
+Listen to (part of) the conversation in the video below. Listen from `2:57` (that's where the link takes you to) to `4.52`.
 
-https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
+https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176
 
 ### Questions
 
-1. Was macht Henry am Samstag?
-2. Welche Sportarten mag Henry?
+1. Was sind Henry's Hobbies?
+2. Mag Milica Henry's Hobbies?
+3. Wie wird das Wetter am Wochenende?
 
 **Speak or write your answers in German.**
 
@@ -59,14 +60,15 @@ https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
-📌 _“Was hast du in der Pause in der Schule gemacht?"_
+📌 _“Was ist deine Lieblingsjahreszeit?"_
 
 Include:
-✔ Where did you spend recess?
-✔ Who did you spend recess with?
-✔ What did you have for lunch?
+✔ Name the season (Frühling, Sommer, Herbst, Winter)
+✔ What do you like about it?
+✔ What is your favorite thing to do in that season?
 
 **Tip:** Use simple connectors like _und_, _aber_, _weil_, _danach_.
+
 
 ---
 
@@ -74,7 +76,7 @@ Include:
 
 Pick your favorite German speaker and tell her/him about the following:
 
-📌 _“Erzähle, was du am Wochenende gemacht hast.”_  
+📌 _“Was machst du am liebsten in Winter?”_  
 
 Try to speak **1–2 minutes continuously.**  
 Focus on fluency rather than perfection.

@@ -1,6 +1,6 @@
 
 
-# Day 1
+# Day 2
 
 ## 👀 1) Reading Comprehension
 
@@ -11,20 +11,19 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Text
 
-**Ein Abend im Restaurant**  
-> Heute Abend gehe ich mit meinen Freunden in ein Restaurant.
-Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte.
-Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch.
-Wir setzen uns und bekommen die Speisekarten.
-Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht.
-Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
+**Meine Lieblingsklasse**  
+> Meine Lieblingsklasse in der Schule ist Biologie.
+Der Unterricht ist interessant, weil wir viel über Tiere, Pflanzen und den menschlichen Körper lernen.
+Unsere Lehrerin erklärt alles sehr gut, und wir machen oft Experimente.
+Manchmal arbeiten wir in Gruppen und müssen gemeinsam ein Problem lösen.
+Ich finde Biologie spannend, weil man die Welt besser versteht.
 
 ### Questions
 
-1. Wohin geht die Person heute Abend?
-2. Wie heißt das Restaurant?
-3. Was bestellt die Person?
-4. Was essen die Freunde?
+1. Was ist die Lieblingsklasse der Person?
+2. Warum ist der Unterricht interessant?
+3. Was machen die Schüler oft im Unterricht?
+4. Warum findet die Person Biologie spannend?
 
 **Speak or write your answers in German.**
 
@@ -42,14 +41,15 @@ Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 
 ### Video
 
-Listen to (part of) the conversation in the video below. Listen from `1:26` (that's where the link takes you to) to `2.10`.
+Listen to (part of) the conversation in the video below. Listen from `2:10` (that's where the link takes you to) to `2.56`.
 
-https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
+https://youtu.be/gDg7rMJ9Odg?si=ULsd6-Gji_gyUNhk&t=130
 
 ### Questions
 
-1. Was macht Henry am Samstag?
-2. Welche Sportarten mag Henry?
+1. Welchen Sport mag Milica?
+2. Mag Milica kochen?
+3. Was ist Milica gerne zum Frühstück?
 
 **Speak or write your answers in German.**
 
@@ -59,14 +59,15 @@ https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
-📌 _“Was hast du in der Pause in der Schule gemacht?"_
+📌 _“Wohin bist du in den Sommerferien gegangen?"_
 
 Include:
-✔ Where did you spend recess?
-✔ Who did you spend recess with?
-✔ What did you have for lunch?
+✔ Where you went and how you got there?
+✔ Who went with you?
+✔ What were some of the favorite activities?
 
 **Tip:** Use simple connectors like _und_, _aber_, _weil_, _danach_.
+
 
 ---
 
@@ -74,7 +75,7 @@ Include:
 
 Pick your favorite German speaker and tell her/him about the following:
 
-📌 _“Erzähle, was du am Wochenende gemacht hast.”_  
+📌 _“Erzähle, von deinem letzten Skiurlaub.”_  
 
 Try to speak **1–2 minutes continuously.**  
 Focus on fluency rather than perfection.
