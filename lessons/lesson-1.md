@@ -1,3 +1,13 @@
+
+---
+title: Day 1
+parent: Lessons
+nav_order: 1
+---
+
+# Day 1
+
+
 ## 👀 1) Reading Comprehension
 
 ### Task
