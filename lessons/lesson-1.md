@@ -1,12 +1,6 @@
 
----
-title: Day 1
-parent: Lessons
-nav_order: 1
----
 
 # Day 1
-
 
 ## 👀 1) Reading Comprehension
 
@@ -18,12 +12,12 @@ You can use a dictionary if needed — but _try to understand from context first
 ### Text
 
 **Ein Abend im Restaurant**  
-Heute Abend gehe ich mit meinen Freunden in ein Restaurant.  
-Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte.  
-Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch.  
-Wir setzen uns und bekommen die Speisekarten.  
-Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht.  
-Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.  
+_Heute Abend gehe ich mit meinen Freunden in ein Restaurant._
+_Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte._
+_Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch._
+_Wir setzen uns und bekommen die Speisekarten._
+_Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht._
+_Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta._
 
 ### Questions
 
@@ -57,11 +51,13 @@ https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
 1. Was macht Henry am Samstag?
 2. Welche Sportarten mag Henry?
 
+**Speak or write your answers in German.**
+
 ---
 
 ## ✍️ 3) **Writing (10–12 min)**
 
-We want to practice formulating full sentences. Here, you will write a short paragraph in response to the following prompt:
+We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
 📌 _“Was hast du in der Pause in der Schule gemacht?"_
 
@@ -71,6 +67,7 @@ Include:
 ✔ What did you have for lunch?
 
 **Tip:** Use simple connectors like _und_, _aber_, _weil_, _danach_.
+
 
 ---
 
