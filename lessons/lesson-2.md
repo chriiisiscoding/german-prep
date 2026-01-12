@@ -25,7 +25,7 @@ Ich finde Biologie spannend, weil man die Welt besser versteht.
 3. Was machen die Schüler oft im Unterricht?
 4. Warum findet die Person Biologie spannend?
 
-**Speak or write your answers in German.**
+**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
 
 ---
 
@@ -55,7 +55,7 @@ https://youtu.be/gDg7rMJ9Odg?si=ULsd6-Gji_gyUNhk&t=130
 
 ---
 
-## ✍️ 3) **Writing (10–12 min)**
+## ✍️ 3) Writing
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 

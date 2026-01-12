@@ -26,8 +26,7 @@ Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
 3. Was machen sie zusammen?
 4. Was macht die Person am Sonntag?
 
-**Speak or write your answers in German.**
-
+**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
 ---
 
 ## 🎧 2) Listening Practice
@@ -56,7 +55,7 @@ https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176
 
 ---
 
-## ✍️ 3) **Writing (10–12 min)**
+## ✍️ 3) Writing
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
