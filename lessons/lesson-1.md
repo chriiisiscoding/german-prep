@@ -26,7 +26,7 @@ Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 3. Was bestellt die Person?
 4. Was essen die Freunde?
 
-**Speak or write your answers in German. Try not to just copy/paste ;the answers from the text but write your responses in full sentences as much as possible.**
+**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
 
 ---
 
