@@ -40,9 +40,3 @@ A test will include 4 sections:
   
 Each day will conver all 4 sections. It might be slow and more difficult at first but if you keep at it, you should become more comfortable with the language and the test format.
 
----
-
-## Start here
-
-👉 **[Day 1](lessons/lesson-1.html)**
-
