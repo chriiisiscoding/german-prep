@@ -13,11 +13,11 @@ You can use a dictionary if needed — but _try to understand from context first
 
 **Ein Wochenende**  
 > Am Samstag schlafe ich gern lange.
-Danach frühstücke ich mit meiner Familie in der Küche.
-Am Nachmittag treffe ich mich mit meinen Freunden im Park oder im Einkaufszentrum.
-Wir reden, hören Musik oder spielen Basketball.
-Am Abend sehe ich oft einen Film oder lese ein Buch.
-Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
+> Danach frühstücke ich mit meiner Familie in der Küche.
+> Am Nachmittag treffe ich mich mit meinen Freunden im Park oder im Einkaufszentrum.
+> Wir reden, hören Musik oder spielen Basketball.
+> Am Abend sehe ich oft einen Film oder lese ein Buch.
+> Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
 
 ### Questions
 
@@ -26,7 +26,10 @@ Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
 3. Was machen sie zusammen?
 4. Was macht die Person am Sonntag?
 
-**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
+**Speak or write your answers in German.**
+
+**Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
+
 ---
 
 ## 🎧 2) Listening Practice
@@ -43,7 +46,7 @@ Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
 
 Listen to (part of) the conversation in the video below. Listen from `2:57` (that's where the link takes you to) to `4.52`.
 
-https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176)
 
 ### Questions
 

@@ -7,16 +7,17 @@
 ### Task
 
 ✔ Read the short German text below, then answer the comprehension questions.
+
 You can use a dictionary if needed — but _try to understand from context first._
 
 ### Text
 
 **Meine Lieblingsklasse**  
 > Meine Lieblingsklasse in der Schule ist Biologie.
-Der Unterricht ist interessant, weil wir viel über Tiere, Pflanzen und den menschlichen Körper lernen.
-Unsere Lehrerin erklärt alles sehr gut, und wir machen oft Experimente.
-Manchmal arbeiten wir in Gruppen und müssen gemeinsam ein Problem lösen.
-Ich finde Biologie spannend, weil man die Welt besser versteht.
+> Der Unterricht ist interessant, weil wir viel über Tiere, Pflanzen und den menschlichen Körper lernen.
+> Unsere Lehrerin erklärt alles sehr gut, und wir machen oft Experimente.
+> Manchmal arbeiten wir in Gruppen und müssen gemeinsam ein Problem lösen.
+> Ich finde Biologie spannend, weil man die Welt besser versteht.
 
 ### Questions
 
@@ -25,7 +26,9 @@ Ich finde Biologie spannend, weil man die Welt besser versteht.
 3. Was machen die Schüler oft im Unterricht?
 4. Warum findet die Person Biologie spannend?
 
-**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
+**Speak or write your answers in German.**
+
+**Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
 
 ---
 
@@ -43,7 +46,7 @@ Ich finde Biologie spannend, weil man die Welt besser versteht.
 
 Listen to (part of) the conversation in the video below. Listen from `2:10` (that's where the link takes you to) to `2.56`.
 
-https://youtu.be/gDg7rMJ9Odg?si=ULsd6-Gji_gyUNhk&t=130
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=ULsd6-Gji_gyUNhk&t=130)
 
 ### Questions
 

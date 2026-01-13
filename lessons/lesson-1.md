@@ -12,12 +12,13 @@ You can use a dictionary if needed — but _try to understand from context first
 ### Text
 
 **Ein Abend im Restaurant**  
+
 > Heute Abend gehe ich mit meinen Freunden in ein Restaurant.
-Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte.
-Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch.
-Wir setzen uns und bekommen die Speisekarten.
-Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht.
-Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
+> Das Restaurant heißt „Zum goldenen Apfel“ und liegt in der Stadtmitte.
+> Als wir im Restaurant ankommen, zeigt uns der Kellner unseren Tisch.
+> Wir setzen uns und bekommen die Speisekarten.
+> Ich bin sehr hungrig, also bestelle ich eine Suppe als Vorspeise und ein Steak mit Pommes als Hauptgericht.
+> Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 
 ### Questions
 
@@ -26,7 +27,9 @@ Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 3. Was bestellt die Person?
 4. Was essen die Freunde?
 
-**Speak or write your answers in German. Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
+**Speak or write your answers in German.**
+
+**Try not to just copy/paste the answers from the text but write your responses in full sentences as much as possible.**
 
 ---
 
@@ -44,7 +47,7 @@ Meine Freunde bestellen eine Pizza, einen Salat und eine Pasta.
 
 Listen to (part of) the conversation in the video below. Listen from `1:26` (that's where the link takes you to) to `2.10`.
 
-https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=LKLHtEoZkvxFLs7o&t=86)
 
 ### Questions
 
