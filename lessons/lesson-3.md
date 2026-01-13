@@ -7,6 +7,7 @@
 ### Task
 
 ✔ Read the short German text below, then answer the comprehension questions.
+
 You can use a dictionary if needed — but _try to understand from context first._
 
 ### Text
@@ -35,12 +36,13 @@ You can use a dictionary if needed — but _try to understand from context first
 ## 🎧 2) Listening Practice
 
 **Goal:** Build listening comprehension and active vocabulary.
+
 ### Task
 
-✔ Listen to the video. Try not to read the transcript.
-✔ Listen to the video again but use the transcript for help if needed.
-✔ Write down 5 words you learned from the video.
-✔ Write down answers to the question below.
+- Listen to the video. Try not to read the transcript.
+- Listen to the video again but use the transcript for help if needed.
+- Write down 5 words you learned from the video.
+- Write down answers to the question below.
 
 ### Video
 
@@ -65,12 +67,12 @@ We want to practice formulating full sentences. Here, you will **write** a short
 📌 _“Was ist deine Lieblingsjahreszeit?"_
 
 Include:
-✔ Name the season (Frühling, Sommer, Herbst, Winter)
-✔ What do you like about it?
-✔ What is your favorite thing to do in that season?
+
+- Name the season (Frühling, Sommer, Herbst, Winter)
+- What do you like about it?
+- What is your favorite thing to do in that season?
 
 **Tip:** Use simple connectors like _und_, _aber_, _weil_, _danach_.
-
 
 ---
 
