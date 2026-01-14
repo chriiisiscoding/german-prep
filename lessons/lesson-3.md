@@ -8,14 +8,6 @@ You rock! 🚀
 
 Let's recap some vocabulary. Do you remember what these words mean?
 
-
-> Meine Lieblingsklasse in der Schule ist Biologie.
-> Der Unterricht ist interessant, weil wir viel über Tiere, Pflanzen und den menschlichen Körper lernen.
-> Unsere Lehrerin erklärt alles sehr gut, und wir machen oft Experimente.
-> Manchmal arbeiten wir in Gruppen und müssen gemeinsam ein Problem lösen.
-> Ich finde Biologie spannend, weil man die Welt besser versteht.
-
-
 - **interessant**: _"Die information was sehr **interessant**."_
 - **viel**: _"Am Wochenende habe ich **viel** Fernseh geschaut."_
 - **versteht**: _"Ich **verstehe** Deutsch schon **viel** besser"_
