@@ -10,7 +10,9 @@ Let's recap some vocabulary. Do you remember what these words mean?
 
 - **interessant**: _"Die information was sehr **interessant**."_
 - **viel**: _"Am Wochenende habe ich **viel** Fernseh geschaut."_
-- **versteht**: _"Ich **verstehe** Deutsch schon **viel** besser"_. <audio controls src="assets/vielleicht.ogg"></audio>
+- **versteht**: _"Ich **verstehe** Deutsch schon **viel** besser"_. 
+- 
+- <audio controls src="../assets/vielleicht.ogg"></audio>
 - **weil**: _"Ich muss ins Bett **weil** ich morgen früh aufstehen muss."_
 - **erklärt**: _"Mein Lehrer **erlärt** wie man die Formel berechnet."_
 - **arbeiten**: _"Ich muss noch viel **arbeiten** bis ich gut Deutsch sprechen kann."_

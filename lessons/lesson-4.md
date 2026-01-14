@@ -4,6 +4,17 @@
 
 <img src="../assets/four.jpg" style="border:3px solid #5F3CEB">
 
+
+
+RECAP
+
+treffen
+
+- _"Sie trifft...."_
+- _"Er trifft...."_
+- _"Sie (many) treffen...."_
+
+
 ## 👀 1) Reading Comprehension
 
 ### Task
