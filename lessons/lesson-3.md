@@ -2,6 +2,31 @@
 
 # Day 3
 
+Great job so far! 👏
+
+You rock! 🚀
+
+Let's recap some vocabulary. Do you remember what these words mean?
+
+
+> Meine Lieblingsklasse in der Schule ist Biologie.
+> Der Unterricht ist interessant, weil wir viel über Tiere, Pflanzen und den menschlichen Körper lernen.
+> Unsere Lehrerin erklärt alles sehr gut, und wir machen oft Experimente.
+> Manchmal arbeiten wir in Gruppen und müssen gemeinsam ein Problem lösen.
+> Ich finde Biologie spannend, weil man die Welt besser versteht.
+
+
+- **interessant**: _"Die information was sehr **interessant**."_
+- **viel**: _"Am Wochenende habe ich **viel** Fernseh geschaut."_
+- **versteht**: _"Ich **verstehe** Deutsch schon **viel** besser"_
+- **weil**: _"Ich muss ins Bett **weil** ich morgen früh aufstehen muss."_
+- **erklärt**: _"Mein Lehrer **erlärt** wie man die Formel berechnet."_
+- **arbeiten**: _"Ich muss noch viel **arbeiten** bis ich gut Deutsch sprechen kann."_
+
+Don't remember all of them? That's ok. Try to understand it from the context. If that's not possible, look it up!
+
+---
+
 ## 👀 1) Reading Comprehension
 
 ### Task
@@ -71,8 +96,6 @@ Include:
 - Name the season (Frühling, Sommer, Herbst, Winter)
 - What do you like about it?
 - What is your favorite thing to do in that season?
-
-**Tip:** Use simple connectors like _und_, _aber_, _weil_, _danach_.
 
 ---
 
