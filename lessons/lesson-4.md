@@ -36,7 +36,7 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Text
 
-**Ein Wochenende**  
+**Stina's Wochenende**  
 
 > Nach der Schule gehe ich meistens nach Hause.
 > Dort esse ich etwas und ruhe mich kurz aus.
