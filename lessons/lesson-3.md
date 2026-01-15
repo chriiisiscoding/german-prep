@@ -1,6 +1,6 @@
 
 
-# Day 3
+# Day 3 - Seasons
 
 Great job so far! 👏
 
