@@ -46,10 +46,10 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Questions
 
-1) Wohin geht die Person nach der Schule?
-2) Was macht sie nach dem Essen?
-3) Für welche Fächer macht sie Hausaufgaben?
-4) Was macht sie am Abend?
+1. Wohin geht die Person nach der Schule?
+2. Was macht sie nach dem Essen?
+3. Für welche Fächer macht sie Hausaufgaben?
+4. Was macht sie am Abend?
 
 **Speak or write your answers in German.**
 
