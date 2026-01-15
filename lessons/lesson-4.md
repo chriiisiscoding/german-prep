@@ -1,19 +1,30 @@
 
 
-# Day 4
+# Day 4 - Traveling
 
-<img src="../assets/four.jpg" style="border:3px solid #5F3CEB">
+<img src="../assets/travel.jpg" style="border:3px solid #5F3CEB">
 
 
+## Quick recap before we get started
 
-RECAP
+Remember the word _"treffen"_ and how it changes depending on how you use it?
 
-treffen
+For present tense, it changes depending on the context:
 
-- _"Sie trifft...."_
-- _"Er trifft...."_
-- _"Sie (many) treffen...."_
+| Person        | Conjugation |
+| ------------- | ----------- |
+| ich           | **treffe**  |
+| du            | **triffst** |
+| er / sie / es | **trifft**  |
+| wir           | **treffen** |
+| ihr           | **trefft**  |
+| sie / Sie     | **treffen** |
 
+📌 Can you formulate **two sentences** that use different forms?
+
+Of course, we also have past tense. There, we most often use _"getroffen"_. Want to try a sentence for that also?
+
+---
 
 ## 👀 1) Reading Comprehension
 
@@ -26,19 +37,19 @@ You can use a dictionary if needed — but _try to understand from context first
 ### Text
 
 **Ein Wochenende**  
-> Am Samstag schlafe ich gern lange.
-> Danach frühstücke ich mit meiner Familie in der Küche.
-> Am Nachmittag treffe ich mich mit meinen Freunden im Park oder im Einkaufszentrum.
-> Wir reden, hören Musik oder spielen Basketball.
-> Am Abend sehe ich oft einen Film oder lese ein Buch.
-> Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
+> Nach der Schule gehe ich meistens nach Hause.
+> Dort esse ich etwas und ruhe mich kurz aus.
+> Danach mache ich meine Hausaufgaben, besonders für Mathe und Englisch.
+> Wenn ich fertig bin, höre ich Musik oder sehe Videos im Internet.
+> Manchmal treffe ich mich auch mit Freunden, aber nicht jeden Tag.
+> Am Abend esse ich mit meiner Familie und erzähle von meinem Tag.
 
 ### Questions
 
-1. Was macht die Person am Samstagmorgen?
-2. Wo trifft sie ihre Freunde?
-3. Was machen sie zusammen?
-4. Was macht die Person am Sonntag?
+1) Wohin geht die Person nach der Schule?
+2) Was macht sie nach dem Essen?
+3) Für welche Fächer macht sie Hausaufgaben?
+4) Was macht sie am Abend?
 
 **Speak or write your answers in German.**
 
@@ -59,15 +70,16 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Video
 
-Listen to (part of) the conversation in the video below. Listen from `2:57` (that's where the link takes you to) to `4.52`.
+Listen to (part of) the conversation in the video below. Listen from `4:23` (that's where the link takes you to) to `6.40`.
 
-<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176)
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=exWrhu3XOJJosmuX&t=263)
 
 ### Questions
 
-1. Was sind Henry's Hobbies?
-2. Mag Milica Henry's Hobbies?
-3. Wie wird das Wetter am Wochenende?
+1. Was ist die Temperatur am Samstag?
+2. Warum koennen Milica und Henry nicht nach Californien reisen?
+3. Wie ist das Wetter oft in London?
+4. Was ist günstig und was ist teuer für Henry's London Reise?
 
 **Speak or write your answers in German.**
 
@@ -77,13 +89,12 @@ Listen to (part of) the conversation in the video below. Listen from `2:57` (tha
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
-📌 _“Was ist deine Lieblingsjahreszeit?"_
+📌 _“Henry freut sich schon auf seine Reise nach London. Warst du auch schon in Europäischen Ländern?"_
 
 Include:
 
-- Name the season (Frühling, Sommer, Herbst, Winter)
-- What do you like about it?
-- What is your favorite thing to do in that season?
+- Welche Länder hast du besucht?
+- Was ist eine Sache oder Ereignis das dir Einfällt wenn du an das Land denkst?
 
 ---
 
@@ -91,7 +102,7 @@ Include:
 
 Pick your favorite German speaker and tell her/him about the following:
 
-📌 _“Was machst du am liebsten in Winter?”_  
+📌 _“Welches Land hast du noch nicht besucht aber würdest gerne besuchen?”_  
 
 Try to speak **1–2 minutes continuously.**  
 Focus on fluency rather than perfection.
