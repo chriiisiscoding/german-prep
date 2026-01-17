@@ -14,20 +14,19 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Text
 
-**Ein Wochenende**  
-> Am Samstag schlafe ich gern lange.
-> Danach frühstücke ich mit meiner Familie in der Küche.
-> Am Nachmittag treffe ich mich mit meinen Freunden im Park oder im Einkaufszentrum.
-> Wir reden, hören Musik oder spielen Basketball.
-> Am Abend sehe ich oft einen Film oder lese ein Buch.
-> Der Sonntag ist ruhiger, und ich mache meine Hausaufgaben.
+**Katrina's Hobby**  
+> In meiner Freizeit habe ich ein Lieblingshobby: Zeichnen.
+Ich zeichne gern Tiere und Menschen, manchmal auch Landschaften.
+Am Wochenende habe ich mehr Zeit dafür als unter der Woche.
+Oft höre ich Musik, während ich zeichne, weil mich das entspannt.
+Meine Familie findet meine Bilder schön und hängt einige davon an die Wand.
+In Zukunft möchte ich besser zeichnen lernen.
 
 ### Questions
 
-1. Was macht die Person am Samstagmorgen?
-2. Wo trifft sie ihre Freunde?
-3. Was machen sie zusammen?
-4. Was macht die Person am Sonntag?
+1. Was ist Katrina's Lieblingshobby?
+2. Wann hat sie mehr Zeit zum Zeichnen?
+3. Was möchte sie in Zukunft machen?
 
 **Speak or write your answers in German.**
 
@@ -48,15 +47,16 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Video
 
-Listen to (part of) the conversation in the video below. Listen from `2:57` (that's where the link takes you to) to `4.52`.
+Listen to (part of) the conversation in the video below. Listen from `6:43` (that's where the link takes you to) to `8.31`.
 
-<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=pDdY367Kb4ItfeiJ&t=176)
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=2OcP7q2O8-T_M-YA&t=403)
 
 ### Questions
 
-1. Was sind Henry's Hobbies?
-2. Mag Milica Henry's Hobbies?
-3. Wie wird das Wetter am Wochenende?
+1. Was möchten Henry und seine Schwester in London als erstes machen?
+2. Warum denkt Henry dass er seine Badehose nicht mitnehmen muss?
+3. Wohin reist Milicia im September?
+4. Wer get alles mit Milicia mit?
 
 **Speak or write your answers in German.**
 
@@ -66,13 +66,13 @@ Listen to (part of) the conversation in the video below. Listen from `2:57` (tha
 
 We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
 
-📌 _“Was ist deine Lieblingsjahreszeit?"_
+📌 _“Katrina hat dir von ihren Hobbies erzählt. Was sind deine Lieblingshobbies?"_
 
 Include:
 
-- Name the season (Frühling, Sommer, Herbst, Winter)
-- What do you like about it?
-- What is your favorite thing to do in that season?
+- Welche Hobbies hast due?
+- Warum machen dir die Hobbies Spass?
+- Wie oft kannst du den Hobbies nachgehen?
 
 ---
 
@@ -80,7 +80,7 @@ Include:
 
 Pick your favorite German speaker and tell her/him about the following:
 
-📌 _“Was machst du am liebsten in Winter?”_  
+📌 _“Kannst du an Hobbies denken die du mal gerne machen würdest?”_  
 
 Try to speak **1–2 minutes continuously.**  
 Focus on fluency rather than perfection.
