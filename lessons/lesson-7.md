@@ -31,15 +31,14 @@ Nach kurzer Zeit öffnet ein Mann die Tür. Er sieht müde aus.
 > 
 > „Gehört Ihnen der Hund?“, fragt Anna.  
 Der Mann lächelt. „Ja, das ist mein Hund. Er ist schnell nach draußen gelaufen.“
-
-„Kein Problem“, sagt Anna. „Er wartet hier schon eine Weile.“
+> 
+> „Kein Problem“, sagt Anna. „Er wartet hier schon eine Weile.“
 
 ### Questions
 
-1. Wo trifft Anja ihre Freundin?
-2. An welchen Tisch setzt sie sich?
-3. Worüber denkt Anja nach, als sie sitzt?
-4. Wofür entscheidet sie sich?
+1. Warum öffnet Anna das Fenster?
+2. Was hat Anna zum Frühstück gegessen?
+3. Welche Augenfarbe hat der Hund?
 
 **Speak or write your answers in German.**
 
