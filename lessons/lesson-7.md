@@ -1,6 +1,5 @@
 
-
-# Day 6 - Sechster Tag
+# Day 7 - Siebter Tag
 
 ## 👀 1) Reading Comprehension
 
@@ -12,17 +11,28 @@ You can use a dictionary if needed — but _try to understand from context first
 
 ### Story
 
-Anja is telling you about her plans today:
+> Anna steht früh auf. Es ist sieben Uhr. Draußen scheint die Sonne, aber es ist noch kühl. Sie öffnet das Fenster und atmet frische Luft ein. Dann geht sie in die Küche.
+> 
+> Anna macht Kaffee und isst ein Brot mit Marmelade. Während sie frühstückt, hört sie Radio.  
+Im Radio sprechen sie über das Wetter. Es soll ein schöner Tag werden.
+> 
+> Nach dem Frühstück zieht Anna ihre Jacke an und nimmt ihre Tasche.  
+Sie schließt die Tür und geht zur Arbeit. Sie fährt nicht mit dem Bus, sie geht zu Fuß.
+> 
+> Auf dem Weg sieht sie einen kleinen Hund. Der Hund sitzt allein vor einem Haus.  
+Er ist braun und hat große Augen. Anna bleibt stehen und schaut sich um.  
+Aber sie sieht keinen Menschen.
+> 
+> „Hallo, kleiner Hund“, sagt Anna leise.  
+Der Hund wedelt mit dem Schwanz und kommt ein paar Schritte näher.
+> 
+> Anna macht sich Sorgen. Sie klingelt an der Haustür.  
+Nach kurzer Zeit öffnet ein Mann die Tür. Er sieht müde aus.
+> 
+> „Gehört Ihnen der Hund?“, fragt Anna.  
+Der Mann lächelt. „Ja, das ist mein Hund. Er ist schnell nach draußen gelaufen.“
 
-> Heute treffe ich eine gute Freundin in meinem Lieblingscafé in Berlin. Das ist immer so schön!
-> 
-> Ich gehe zum Café und setze mich an einen Tisch für zwei Personen. Dann überlege ich, was ich bestellen möchte. Es gibt so viele leckere Sachen. Ich entscheide mich für einen Cappuccino und ein Stück Kuchen.
-> 
-> Wir sitzen an unserem Tisch und plaudern. Das Café ist gemütlich und ruhig. Meine Freundin und ich genießen unseren Kaffee und den Kuchen. Der Kaffee ist heiß, und der Kuchen ist süß. Wir haben eine tolle Zeit zusammen.
-> 
-> Nach einer Weile ist es Zeit zu bezahlen. Ich gebe der Kellnerin das Geld und bedanke mich. Dann verabschieden wir uns und gehen.
-> 
-> Cafés sind wunderbare Orte, um Zeit mit Freunden zu verbringen. Ich freue mich schon auf das nächste Treffen in meinem Lieblingscafé.
+„Kein Problem“, sagt Anna. „Er wartet hier schon eine Weile.“
 
 ### Questions
 
@@ -43,20 +53,20 @@ Anja is telling you about her plans today:
 
 ### Task
 
-- Listen to the video. Try not to read the transcript.
-- Listen to the video again but use the transcript for help if needed.
-- Write down 5 words you learned from the video.
-- Write down answers to the question below.
+- Watch to the video. Try not to read the transcript.
+- If you had trouble understanding the video, watch it again but use the transcript only as needed.
+- Write down words and phrases you learned from the video.
+- Answer to the question below.
 
 ### Video
 
-Listen to (part of) the conversation in the video below. Listen from `6:43` (that's where the link takes you to) to `11.48`.
+Listen to (part of) the conversation in the video below. Listen from `8:35` to `11.12`.
 
-<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=AmJY9vzxPUYhcyvq&t=514)
+<img src="../assets/youtube.png" width="24em"> [Conversation Video](https://youtu.be/gDg7rMJ9Odg?si=5bzyIExlXE_V5DxY&t=515)
 
 ### Questions
 
-1. Wieviele Familienmitglieder hat Henry?
+1. Wieviel Geschwister hat Henry?
 2. Warum sorgt sich Milicia nachdem sie eine Nachricht erhält?
 3. Wie denkt Henry dass Milicia den Kundenservice erreichen kann?
 4. Was ist Henry's andere Idee?
@@ -67,20 +77,19 @@ Listen to (part of) the conversation in the video below. Listen from `6:43` (tha
 
 ## ✍️ 3) Writing
 
-We want to practice formulating full sentences. Here, you will **write** a short paragraph in response to the following prompt:
+Heard about improv? Now, you will practice it! But in writing. Take a cue from the video you just watched and write a short story **1-2 paragraphs** long that relates to the video.
 
-📌 _“Katrina hat dir von ihren Hobbies erzählt. Was sind deine Lieblingshobbies?"_
+For example:
 
-Include:
+- An experience that you are reminded of
+- A fictional story
 
-- Welche Hobbies hast due?
-- Warum machen dir die Hobbies Spass?
-- Wie oft kannst du den Hobbies nachgehen?
+Try to formulate full sentences. If you need to know a word, you can look it up. It doesn't need to be perfect.
+
+---
 
 ## 🗣 4) Speaking
 
-We are starting off with speaking. Usually, we have a prompt here that you will formulate a response to. We'll try to just have a conversation for 10 to 15 minutes about anything that comes to mind. Some ideas:
+Pick your favorite German speaker and hand him the story you wrote. Have them ask questions about your story.
 
-- Was du am Tag so gemacht hast (_your day overall_)
-- Was war heute in der Schule los? (_school related things_)
-- Was sind deine Pläne für dein Wochenende? (_weekend plans_)
+Try to formulate longer, coheerent sentences rather than short responses. The tgoal is to **speak a lot** and not necessary to speak correctly.
