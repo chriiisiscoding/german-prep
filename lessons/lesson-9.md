@@ -69,7 +69,7 @@ Listen to (part of) the conversation in the video below. Listen from `14:00` to 
 
 ### Questions
 
-1. Was ist in der Nähe from Restaurant?
+1. Was ist in der Nähe vom Restaurant?
 2. Wie kommt Henry zum Restaurant?
 3. Wer ruft das Restaurant an um eine Reservering zu machen?
 
