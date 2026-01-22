@@ -79,7 +79,7 @@ Listen to (part of) the conversation in the video below. Listen from `14:00` to 
 
 ## ✍️ 3) Writing
 
-Let's again use the story you just listened to and write your own story that relates to it. Take a cue from the video you just watched and write a short story **1-2 paragraphs** long that relates to the video.
+Let's again use the story you read above and write your own story that relates to it. Take a cue from the video you just watched and write a short story **1-2 paragraphs** long that relates to the video.
 
 For example:
 
