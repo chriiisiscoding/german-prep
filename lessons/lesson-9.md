@@ -94,4 +94,4 @@ Try to formulate full sentences. If you need to know a word, you can look it up.
 
 Pick your favorite German speaker and hand him the story you wrote. Have them ask questions about your story.
 
-Try to formulate longer, coheerent sentences rather than short responses. The tgoal is to **speak a lot** and not necessary to speak correctly.
+Try to formulate longer, coheerent sentences rather than short responses. The goal is to **speak a lot** and not necessary to speak correctly.
