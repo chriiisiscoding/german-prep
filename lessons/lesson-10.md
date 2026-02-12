@@ -1,5 +1,5 @@
 
-# Day 9 - Zehnter Tag
+# Day 10 - Zehnter Tag
 
 ## 👀 1) Reading Comprehension
 
